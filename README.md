@@ -9,7 +9,10 @@ The hackathon aims to spotlight the challenges faced by women and non-binary peo
 
 Features
 Income Input: Users can input their yearly income.
+
 Financial Allocation: Based on researched statistics, the backend calculates and recommends appropriate portions of income to be allocated to various categories such as food, insurance, and vacation.
+
 User-Friendly Interface: Simple and intuitive interface for users to interact with and get their financial recommendations.
+
 Technologies Used
 Backend: Python
