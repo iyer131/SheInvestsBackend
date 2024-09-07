@@ -13,6 +13,3 @@ Financial Allocation: Based on researched statistics, the backend calculates and
 User-Friendly Interface: Simple and intuitive interface for users to interact with and get their financial recommendations.
 Technologies Used
 Backend: Python
-Frontend: [Include details if applicable]
-Database: [Include details if applicable]
-APIs: [Include details if applicable]
